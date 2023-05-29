@@ -1,1 +1,1 @@
-# SUJAL-PARIHAR-C-Program-
+# SUJALPARIHAR/ C-Programs-
