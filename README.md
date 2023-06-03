@@ -1,1 +1,0 @@
-# SUJALPARIHAR/ C-Programs-
